@@ -1,0 +1,64 @@
+.button-on{
+    background-color: #4caf50;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 3px;
+    width: 134px;
+    text-align: center;
+}
+
+.containers-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: 20px;
+    margin-right: 70px;
+    border: #7a96d1 0.5px solid;
+    background-color: transparent;
+    width: 285px;
+}
+
+.button-off{
+    background-color: #f44336;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    margin: 3px;
+    width: 134px;
+    text-align: center;
+}
+
+.container-info-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px;
+    padding: 5px;
+}
+
+.container-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.container-info-subDiv li{
+    margin: 10px;
+    padding: 5px;
+    list-style-type:none;
+}
+
+.container-on{
+    color: #4caf50;
+}
+
+.container-off{
+    color: #f44336;
+}
+

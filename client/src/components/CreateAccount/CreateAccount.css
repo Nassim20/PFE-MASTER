@@ -1,0 +1,68 @@
+.container-create-account {
+    width: 450px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+  }
+
+  .form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 10px;
+    gap: 15px;  
+  }
+  
+  .label {
+    margin-bottom: 5px;
+    margin-right: 10px;
+    
+  }
+  
+  .input_add_accoount{
+    margin-left: 50px;
+    width: 320px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  
+  .button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    margin-top: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .login-option {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .login-option a {
+    color: #4caf50;
+  }
+  
+  .login-option a:hover {
+    text-decoration: underline;
+  }
+
+  .error {
+    color: red;
+    font-size: 14px;
+  }

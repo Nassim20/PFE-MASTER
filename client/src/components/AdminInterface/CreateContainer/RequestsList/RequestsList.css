@@ -1,0 +1,95 @@
+.requests-list-container {
+    margin-top: 20px;
+  }
+  
+  .requests-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .requests-list li {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
+  .username {
+    font-weight: bold;
+  }
+  
+  .container-type {
+    margin-left: 10px;
+    color: #666;
+  }
+  
+  .hosting-length {
+    margin-left: 10px;
+    color: #999;
+  }
+
+  .requests-list-container {
+  margin-top: 20px;
+}
+
+.requests-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.requests-list li {
+  background-color: #f2f2f2;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+}
+
+.username {
+  font-weight: bold;
+}
+
+.container-type {
+  margin-left: 10px;
+  color: #666;
+}
+
+.hosting-length {
+  margin-left: 10px;
+  color: #999;
+}
+
+.afficher-button{
+  margin-left: 20px;
+  padding: 4px 8px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.goBack-button {
+    margin-top: 20px;
+    margin-left: 20px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  
+  .goBack-button:hover {
+    background-color: #0056b3;
+  }
+
+  .requests-list-container h2{
+    margin-left: 30px;
+    font-size: 30px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #C3C4C6, #687d9e);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+  }

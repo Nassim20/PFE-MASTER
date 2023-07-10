@@ -1,0 +1,37 @@
+.container-actions{
+    overflow: scroll;
+    white-space: nowrap;
+    display: row;
+    flex-direction: row;
+    
+}
+.container-action-Title{
+    margin: 20px;
+}
+
+.available-containers{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.containers-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 10px;
+    margin: 20px;
+    margin-right: 70px;
+    border: #7a96d1 0.5px solid;
+    background-color: transparent;
+    width: 285px;
+}
+
+.container-actions-header{
+    margin-left: 40px;
+    font-size: 35px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #264075, #6d8fc4);
+    color: transparent;
+    background-clip: text;
+  -webkit-background-clip: text;
+}

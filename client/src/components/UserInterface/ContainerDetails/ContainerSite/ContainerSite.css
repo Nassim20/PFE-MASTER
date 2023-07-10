@@ -1,0 +1,73 @@
+.containerEnding{
+    color: red;
+}
+
+.containerNotEndign{
+    color: black;
+}
+
+.container-site-liste-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.container-site-liste-div li{
+    margin: 5px;
+    padding: 5px;
+    list-style-type:none;
+    font-size: large;
+}
+
+.container-site-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin: 10px;
+    padding: 5px;
+}
+
+.container-site-subDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.container-site-button{
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin: 3px;
+    background-color: #aec7e4;
+}
+
+.container-site-button:hover{
+    background-color: #85a4d2;
+}
+
+.container-site-button-div input[type='number']{
+    width: 50px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-left: 10px;
+}
+.input-duree-div button{
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    margin: 3px;
+    background-color: #8ffec6;
+}
+
+.input-duree-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}

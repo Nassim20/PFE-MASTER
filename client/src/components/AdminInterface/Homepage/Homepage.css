@@ -1,0 +1,9 @@
+.main-title-admin{
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #C3C4C6, #687d9e);
+    color: transparent;
+    background-clip: text;
+  -webkit-background-clip: text;
+}

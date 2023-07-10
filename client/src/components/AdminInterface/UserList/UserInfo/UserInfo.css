@@ -1,0 +1,42 @@
+
+  .user-info h2 {
+    font-size: 18px;
+    margin-left: 5px;
+  }
+  
+  .user-info .info-item {
+    display: flex;
+    margin: 5px;
+  }
+
+  .show-button{
+    margin-left: 5px;
+    border-radius: 5px;
+    border: 1px solid #687d9e;
+    background-color: #687d9e;
+    color:white
+  }
+  
+  .user-info .label {
+    font-weight: bold;
+  }
+  
+  .user-info h2{
+    color: #687d9e;
+  }
+
+  .user-info .value {
+    flex-grow: 1;
+  }
+
+  .info-div-item{
+    margin-left: 20px;
+  }
+  
+  .user-info input[type="password"] {
+    background-color: transparent;
+    color: #000;
+    font-family: inherit;
+    font-size: 14px;
+    padding: 0;
+  }

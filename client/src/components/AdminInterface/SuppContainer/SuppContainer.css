@@ -1,0 +1,54 @@
+.supp-sub-div {
+  width: 300px;
+  margin: 100px auto;
+}
+
+.supp-sub-div h2 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.supp-sub-div .form-group {
+  margin-bottom: 10px;
+}
+
+.supp-sub-div label {
+  display: block;
+  font-weight: bold;
+}
+
+.supp-sub-div input[type="text"],
+.supp-sub-div input[type="password"] {
+  width: 95%;
+  height: 30px;
+  padding: 4px 8px;
+}
+
+.supp-sub-div button[type="submit"] {
+  width: 95%;
+  height: 40px;
+  background-color: #526ddb;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 15px;
+}
+
+.supp-sub-div button[type="submit"]:hover {
+  background-color: #3e4a8c;
+}
+
+.supp-sub-div button[type="submit"]:focus {
+  outline: none;
+}
+
+.supp-main-div h1{
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #C3C4C6, #687d9e);
+    color: transparent;
+    background-clip: text;
+  -webkit-background-clip: text;
+}
